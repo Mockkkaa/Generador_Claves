@@ -1,4 +1,5 @@
 # Generador_Claves
+
 # Laboratorio de Claves 🔐
 
 Una aplicación moderna y estética para generar contraseñas seguras, construida con React, Vite y Tailwind CSS. Presenta un diseño Neumórfico con detalles metálicos y soporte completo para modo oscuro.
